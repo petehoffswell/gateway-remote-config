@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE2F6C19",
+         "servers" : [
+              {
+                   "server_address" : "router.us.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude": 42.784462,
+         "ref_longitude": -86.111662,
+         "ref_altitude": 662,
+         "contact_email" : "pete@hoffswell.com",
+         "description" : "Holland MI - Hoffswell"
+    }
+}
